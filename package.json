@@ -1,6 +1,6 @@
 {
   "name": "latam-faker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Realistic Fake Data Generator for Latin America",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
