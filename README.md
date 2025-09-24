@@ -1,7 +1,12 @@
-![Logo de Latam Faker - Generador de Mock Data](assets/logo-latam-faker.png)
-[![npm version](https://img.shields.io/npm/v/latam-faker)](https://www.npmjs.com/package/latam-faker)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/mat1asalfaro/latamfaker/ci.yml)](https://github.com/mat1asAlfaro/latamfaker/actions)
-[![License](https://img.shields.io/npm/l/latam-faker.svg)](./LICENSE)
+<div align="center">
+
+  ![Logo de Latam Faker - Generador de Mock Data](assets/logo-latam-faker.png)
+
+  [![npm version](https://img.shields.io/npm/v/latam-faker)](https://www.npmjs.com/package/latam-faker)
+  [![Build Status](https://img.shields.io/github/actions/workflow/status/mat1asalfaro/latamfaker/ci.yml)](https://github.com/mat1asAlfaro/latamfaker/actions)
+  [![License](https://img.shields.io/npm/l/latam-faker.svg)](./LICENSE)
+
+</div>
 
 **LatAm Faker** is an open-source JavaScript/TypeScript library for generating realistic fake data with a focus on Latin American countries.  
 It is designed to make testing, prototyping, demos, and seeding databases easier by providing culturally accurate data (names, IDs, addresses, phone numbers, etc.) specific to the region.
