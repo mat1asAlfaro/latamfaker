@@ -1,0 +1,37 @@
+{
+  "name": "latam-faker",
+  "version": "0.1.0",
+  "description": "Realistic Fake Data Generator for Latin America",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "src/locales"
+  ],
+  "scripts": {
+    "dev": "tsup src/index.ts --watch",
+    "build": "tsup",
+    "test": "vitest run",
+    "lint": "eslint . --ext .ts"
+  },
+  "keywords": [
+    "faker",
+    "mock-data",
+    "latam",
+    "testing",
+    "typescript"
+  ],
+  "author": "Matias Alfaro Iglesias",
+  "license": "MIT",
+  "packageManager": "pnpm@10.17.1",
+  "devDependencies": {
+    "@swc/core": "^1.13.5",
+    "@typescript-eslint/eslint-plugin": "^8.44.1",
+    "@typescript-eslint/parser": "^8.44.1",
+    "eslint": "^9.36.0",
+    "tsup": "8.1.1",
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
+  }
+}
