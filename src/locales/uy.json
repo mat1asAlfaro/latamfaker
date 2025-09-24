@@ -1,0 +1,81 @@
+{
+    "person": {
+        "firstNames": [
+            "Matias", 
+            "Sofia", 
+            "Juan", 
+            "Maria"
+        ],
+        "lastNames": [
+            "Alfaro", 
+            "Gonzalez", 
+            "Perez", 
+            "Rodriguez"
+        ]
+    },
+    "address": {
+        "streetNames": [
+            "18 de Julio",
+            "Bulevar Artigas",
+            "Camino Maldonado",
+            "Rivera",
+            "Agraciada"
+        ],
+        "neighborhoods": [
+            "Centro",
+            "Cordón",
+            "Pocitos",
+            "Ciudad Vieja",
+            "Carrasco"
+        ],
+        "cities": [
+            "Montevideo",
+            "Canelones",
+            "Maldonado",
+            "Salto",
+            "Paysandú"
+        ],
+        "states": [
+            "Montevideo",
+            "Canelones",
+            "Maldonado",
+            "Salto",
+            "Paysandú"
+        ],
+        "countries": [
+            "Uruguay"
+        ],
+        "postalCodes": [
+            "11000",
+            "11300",
+            "11800",
+            "90000",
+            "70000"
+        ],
+        "latitude": [
+            "-34.9011",
+            "-34.9033",
+            "-34.9205",
+            "-31.3896",
+            "-32.3214"
+        ],
+        "longitude": [
+            "-56.1645",
+            "-56.1882",
+            "-56.1521",
+            "-58.0170",
+            "-58.0807"
+        ]
+    },
+    "phone": {
+        "phoneNumbers": [
+            "123-456-7890",
+            "987-654-3210",
+            "555-555-5555",
+            "111-111-1111",
+            "222-222-2222"
+        ]
+    }
+
+}
+  
